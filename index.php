@@ -33,6 +33,7 @@ $services = [
 <!DOCTYPE html>
 <html lang="id">
 <head>
+    <meta name="google-site-verification" content="kode-verifikasi-lu" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Workshop Kreafis Furniture melayani pembuatan furniture custom untuk rumah dan ruang usaha. Konsultasikan kebutuhan furniture Anda melalui WhatsApp.">
